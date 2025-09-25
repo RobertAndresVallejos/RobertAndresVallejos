@@ -2,17 +2,17 @@
 
 Voici un résumé de ma personne et de mes projets actuels.
 
+- 📁 Portfolio :
+
+  Une partie de mes créations passées (depuis 2022) et présentes seront bientôt toutes disponible sur mon portfolio, cité dans ce fichier README.md. Par respect pour la vie privée de mes camarades, ainsi que pour la confidentialité des documents des d'écoles, l'intégration de certains projets prendra plus de temps, mais vous pourrez retrouver certains projets en attendants.
+
 - 💼 Projet personnel :
 
-  Je travaille actuellement sur la création d'un **site web de librairie** dans le cadre d'un projet personnel. Ce défi me permet d'appliquer et de consolider mes compétences en développement web. Il sera bientôt disponible dans mon portfolio.
+  Je travaille actuellement sur la création d'un **site web de librairie** dans le cadre d'un projet personnel. Ce défi me permet d'appliquer et de consolider mes compétences en développement web. Il est disponible dans mon portfolio.
 
 - 💻 En cours d'apprentissage :
   
   J'apprends et peaufine mes connaissances en HTML/CSS, PHP, bases de données (via phpMyAdmin) et les concepts d'hébergement web.
-
-- 📁 Portfolio :
-  
-  Une partie de mes créations passées (depuis 2022) et présentes seront bientôt toutes disponible sur mon portfolio, cité dans ce fichier README.md. Par respect pour la vie privée de mes camarades, ainsi que pour la confidentialité des documents des d'écoles, l'intégration de certains projets prendra plus de temps, mais vous pourrez retrouver certains projets en attendants.
 
 - :octocat: GitHub :
   
@@ -51,6 +51,16 @@ Merci d'avoir lu 👀
 - Site web dynamique de réservation de séjours en kayak (🚧Création en cours d'importation🚧)
 - Projet Annuel : Conception et déploiement d'un Site web dynamique "from scratch" (🚧Création en cours d'importation🚧)
 
-## Projets personnel
+## 💼 Projets personnel
 
 - Site web de librairie : https://github.com/Arounato/Manga-no-Mori
+
+## 💻 En cours d'apprentissage 
+
+### Udemy
+  
+  Je suis une formation en ligne sur Udemy afin de consolider mes compétences. Pour le moment, j'apprends des concepts pour le développement web, mais j'envisage un cours sur le réseau (avec une certification Cisco) ainsi qu'un cours sur la cybersécurité.
+
+### Documentation
+
+  J'utilise W3Schools et MDN Web Docs comme documentation.
