@@ -1,18 +1,18 @@
 # Hello World 🌍
 
-Voici un résumé de ma personne et de mes projets actuels.
+Voici mon portfolio GitHub accompagné de la globalité de mes projets. 
 
-- 📁 Portfolio :
+- 📁 Projets scolaires :
 
-  Une partie de mes créations passées (depuis 2022) et présentes seront bientôt toutes disponible sur mon portfolio, cité dans ce fichier README.md. Par respect pour la vie privée de mes camarades, ainsi que pour la confidentialité des documents des d'écoles, l'intégration de certains projets prendra plus de temps, mais vous pourrez retrouver certains projets en attendants.
+  Une partie de mes créations passées (depuis 2022) et présentes seront bientôt toutes disponibles. Par respect pour la vie privée de mes camarades, ainsi que pour la confidentialité des documents des écoles, l'intégration de certains projets prendra plus de temps, mais vous pourrez retrouver certains projets en attendant.
 
 - 💼 Projet personnel :
 
   Je travaille actuellement sur la création d'un **site web de librairie** dans le cadre d'un projet personnel. Ce défi me permet d'appliquer et de consolider mes compétences en développement web. Il est disponible dans mon portfolio.
 
-- 💻 En cours d'apprentissage :
+- 💻 Formations en ligne :
   
-  J'apprends et peaufine mes connaissances en HTML/CSS, PHP, bases de données (via phpMyAdmin) et les concepts d'hébergement web.
+  J'apprends et peaufine mes connaissances en informatique grâce à Udemy, W3Schools et MDN Web Docs. Vous pouvez consulter mes créations faites sur mon GitHub.
 
 - :octocat: GitHub :
   
@@ -20,28 +20,28 @@ Voici un résumé de ma personne et de mes projets actuels.
 
 Merci d'avoir lu 👀
 
-## 📁 Portfolio 
+## 📁 Projets scolaires 
 
-## IUT Sénart-Fontainebleau (2022-2023)
+### 🏫 IUT Sénart-Fontainebleau (2022-2023)
 
-### <ins>Adresse : Route forestière, Route d'Hurtault, 77300 Fontainebleau, France</ins>
+#### <ins>Adresse : Route forestière, Route d'Hurtault, 77300 Fontainebleau, France</ins>
 
-#### Semestre 1 :
+Semestre 1 :
 
 - Site web de type marketplace : https://github.com/Arounato/SAE_web_S1
 - Jeu de paires : https://github.com/Arounato/SAE11_2022_01
 - Configuration d'un poste informatique : https://github.com/Arounato/SAE_S1_03
 
-#### Semestre 2 :
+Semestre 2 :
 
 - Site web de type doodle (🚧Création en cours d'importation🚧)
 - Jeu du labyrinthe de Thésée (🚧Création en cours d'importation🚧)
 
-## ESGI (janv. 2024-déc. 2024)
+### 🏫 ESGI (janv. 2024-déc. 2024)
 
-### <ins>Adresse : 242 Rue du Faubourg Saint-Antoine, 75012 Paris, France</ins>
+#### <ins>Adresse : 242 Rue du Faubourg Saint-Antoine, 75012 Paris, France</ins>
 
-### Annuel :
+Annuel :
 
 - Conception et architecture d'un système d'information : https://github.com/Arounato/Mini-Projet-Architecture-SI
 - Modélisation et exploitation de base de données : https://github.com/Arounato/Projet-SQL-Karkane
@@ -55,11 +55,11 @@ Merci d'avoir lu 👀
 
 - Site web de librairie : https://github.com/Arounato/Manga-no-Mori
 
-## 💻 En cours d'apprentissage 
+## 💻 Formations en ligne
 
 ### Udemy
-  
-  Je suis une formation en ligne sur Udemy afin de consolider mes compétences. Pour le moment, j'apprends des concepts pour le développement web, mais j'envisage un cours sur le réseau (avec une certification Cisco) ainsi qu'un cours sur la cybersécurité.
+
+- Site web : (🚧Création en cours d'importation🚧)
 
 ### Documentation
 
