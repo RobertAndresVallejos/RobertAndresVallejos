@@ -1,7 +1,5 @@
 # Hello World 🌍
 
-## Français :
-
 Voici un résumé de ma personne et de mes projets actuels.
 
 - 💼 Projet personnel :
