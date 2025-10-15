@@ -63,4 +63,4 @@ Annuel :
 
 ### Documentation
 
-  J'utilise W3Schools et MDN Web Docs comme documentation.
+- J'utilise W3Schools et MDN Web Docs comme documentation.
