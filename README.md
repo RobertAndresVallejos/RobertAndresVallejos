@@ -73,3 +73,4 @@ Annuel :
 
 - Introduction à GitHub : https://github.com/Arounato/skills-introduction-to-github
 - Communiquer avec Markdown : https://github.com/Arounato/skills-communicate-using-markdown
+- Pages GitHub : https://github.com/Arounato/skills-github-pages
