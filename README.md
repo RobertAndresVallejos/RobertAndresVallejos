@@ -4,7 +4,7 @@ Voici mon portfolio GitHub accompagné de la globalité de mes projets.
 
 - 📁 Projets scolaires :
 
-  Une partie de mes créations passées (depuis 2022) et présentes seront bientôt toutes disponibles. Par respect pour la vie privée de mes camarades, ainsi que pour la confidentialité des documents des écoles, l'intégration de certains projets prendra plus de temps, mais vous pourrez retrouver certains projets en attendant.
+  Créations passées et présentes, importées progressivement (délai dû à la confidentialité).
 
 - 💼 Projet personnel :
 
@@ -12,11 +12,11 @@ Voici mon portfolio GitHub accompagné de la globalité de mes projets.
 
 - 💻 Formations en ligne :
   
-  J'apprends et peaufine mes connaissances en informatique grâce à Udemy, W3Schools et MDN Web Docs. Vous pouvez consulter mes créations faites sur mon GitHub.
+  Apprentissage via Udemy, W3Schools et MDN Web Docs. Liens Udemy/W3Schools dans les "Comptes Sociaux".
 
 - :octocat: GitHub :
   
-  Parallèlement, j'approfondis ma maîtrise de GitHub pour ses différentes fonctions.
+  Parallèlement, j'approfondis ma maîtrise de GitHub.
 
 Merci d'avoir lu 👀
 
@@ -64,3 +64,12 @@ Annuel :
 ### Documentation
 
 - J'utilise W3Schools et MDN Web Docs comme documentation.
+
+## :octocat: GitHub
+
+### GitHub Compétences 
+
+#### Premier jour sur GitHub :
+
+- Introduction à GitHub : https://github.com/Arounato/skills-introduction-to-github
+- Communiquer avec Markdown : https://github.com/Arounato/skills-communicate-using-markdown
