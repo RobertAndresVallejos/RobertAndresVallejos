@@ -12,7 +12,7 @@ Voici mon portfolio GitHub accompagné de la globalité de mes projets.
 
 - 💻 Formations en ligne :
   
-  Apprentissage via Udemy, W3Schools et MDN Web Docs. Liens Udemy/W3Schools dans les "Comptes Sociaux".
+  Apprentissage via Udemy, lien disponible dans les "Comptes Sociaux".
 
 - :octocat: GitHub :
   
@@ -60,10 +60,6 @@ Annuel :
 ### Udemy
 
 - Site web : https://github.com/Arounato/Travel-Agency
-
-### Documentation
-
-- J'utilise W3Schools et MDN Web Docs comme documentation.
 
 ## :octocat: GitHub
 
