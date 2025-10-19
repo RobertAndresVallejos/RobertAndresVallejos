@@ -8,11 +8,11 @@ Voici mon portfolio GitHub accompagné de la globalité de mes projets.
 
 - 💼 Projet personnel :
 
-  Je travaille actuellement sur la création d'un **site web de librairie** dans le cadre d'un projet personnel. Ce défi me permet d'appliquer et de consolider mes compétences en développement web. Il est disponible dans mon portfolio.
+  Création d'un **site web de librairie** dans le cadre d'un projet personnel.
 
 - 💻 Formations en ligne :
   
-  Apprentissage via Udemy, lien disponible dans les "Comptes Sociaux".
+  Apprentissage via Udemy, lien disponible sur mon profil.
 
 - :octocat: GitHub :
   
@@ -34,8 +34,8 @@ Semestre 1 :
 
 Semestre 2 :
 
-- Site web de type doodle (🚧Création en cours d'importation🚧)
-- Jeu du labyrinthe de Thésée (🚧Création en cours d'importation🚧)
+- Site web de type doodle : (🚧Création en cours d'importation🚧)
+- Jeu du labyrinthe de Thésée : (🚧Création en cours d'importation🚧)
 
 ### 🏫 ESGI (janv. 2024-déc. 2024)
 
@@ -47,9 +47,9 @@ Annuel :
 - Modélisation et exploitation de base de données : https://github.com/Arounato/Projet-SQL-Karkane
 - Mise en place et administration d'un système de gestion de parc informatique GLPI sur une machine virtuelle : https://github.com/Arounato/Projet-Soutenance-VIRTUALISATION-ET-GDPI
 - Conception et déploiement d'une architecture réseau multi-sites : https://github.com/Arounato/Projet-Galer-IT
-- Déploiement et administration d'une infrastructure Windows Server (🚧Création en cours d'importation🚧)
-- Site web dynamique de réservation de séjours en kayak (🚧Création en cours d'importation🚧)
-- Projet Annuel : Conception et déploiement d'un Site web dynamique "from scratch" (🚧Création en cours d'importation🚧)
+- Déploiement et administration d'une infrastructure Windows Server : (🚧Création en cours d'importation🚧)
+- Site web dynamique de réservation de séjours en kayak : (🚧Création en cours d'importation🚧)
+- Projet Annuel : Conception et déploiement d'un Site web dynamique "from scratch" : (🚧Création en cours d'importation🚧)
 
 ## 💼 Projets personnel
 
