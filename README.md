@@ -35,7 +35,7 @@ Semestre 1 :
 Semestre 2 :
 
 - Site web de type doodle : https://github.com/RobertAndresVallejos/SAES202-Doodle
-- Jeu du labyrinthe de Thésée : (🚧Création en cours d'importation🚧)
+- Jeu du labyrinthe de Thésée : https://github.com/RobertAndresVallejos/SAE21_2022-Jeux-Labyrinthe
 
 ### 🏫 ESGI (janv. 2024-déc. 2024)
 
