@@ -48,8 +48,8 @@ Annuel :
 - Mise en place et administration d'un système de gestion de parc informatique GLPI sur une machine virtuelle : https://github.com/RobertAndresVallejos/Projet-Soutenance-VIRTUALISATION-ET-GDPI
 - Conception et déploiement d'une architecture réseau multi-sites : https://github.com/RobertAndresVallejos/Projet-Galer-IT
 - Déploiement et administration d'une infrastructure Windows Server : (🚧Création en cours d'importation🚧)
-- Site web dynamique de réservation de séjours en kayak : (🚧Création en cours d'importation🚧)
-- Projet Annuel : Conception et déploiement d'un Site web dynamique "from scratch" : https://github.com/RobertAndresVallejos/projet_annuel
+- Projet annuel rattrapage : https://github.com/RobertAndresVallejos/projet_annuel_rattrapage
+- Projet annuel : Conception et déploiement d'un Site web dynamique "from scratch" : https://github.com/RobertAndresVallejos/projet_annuel
 
 ## 💼 Projets personnel
 
