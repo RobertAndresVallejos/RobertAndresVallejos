@@ -49,7 +49,7 @@ Annuel :
 - Conception et déploiement d'une architecture réseau multi-sites : https://github.com/RobertAndresVallejos/Projet-Galer-IT
 - Déploiement et administration d'une infrastructure Windows Server : (🚧Création en cours d'importation🚧)
 - Site web dynamique de réservation de séjours en kayak : (🚧Création en cours d'importation🚧)
-- Projet Annuel : Conception et déploiement d'un Site web dynamique "from scratch" : (🚧Création en cours d'importation🚧)
+- Projet Annuel : Conception et déploiement d'un Site web dynamique "from scratch" : https://github.com/RobertAndresVallejos/projet_annuel
 
 ## 💼 Projets personnel
 
