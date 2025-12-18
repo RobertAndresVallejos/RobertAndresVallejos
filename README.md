@@ -4,7 +4,7 @@ Voici mon portfolio GitHub accompagné de la globalité de mes projets.
 
 - 📁 Projets scolaires :
 
-  Créations passées et présentes, importées progressivement (délai dû à la confidentialité).
+  Créations passées et présentes, importées progressivement.
 
 - 💼 Projet personnel :
 
