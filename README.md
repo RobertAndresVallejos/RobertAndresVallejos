@@ -65,10 +65,14 @@ Annuel :
 
 ## :octocat: GitHub
 
-### GitHub Compétences 
+### Compétences GitHub 
 
 #### Premier jour sur GitHub :
 
 - Introduction à GitHub : https://github.com/RobertAndresVallejos/skills-introduction-to-github
 - Communiquer avec Markdown : https://github.com/RobertAndresVallejos/skills-communicate-using-markdown
 - Pages GitHub : https://github.com/RobertAndresVallejos/skills-github-pages
+
+#### Première semaine sur GitHub :
+
+- Introduction à Git : https://github.com/RobertAndresVallejos/skills-introduction-to-git 🚧 En cours ... - Étape 5 🚧
