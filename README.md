@@ -75,4 +75,4 @@ Annuel :
 
 #### Première semaine sur GitHub :
 
-- Introduction à Git : https://github.com/RobertAndresVallejos/skills-introduction-to-git 🚧 En cours ... - Étape 5 🚧
+- Introduction à Git : https://github.com/RobertAndresVallejos/skills-introduction-to-git
