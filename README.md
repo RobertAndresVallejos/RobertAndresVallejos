@@ -65,7 +65,7 @@ Annuel :
 
 ## :octocat: GitHub
 
-### Compétences GitHub 
+### Certifications de compétences GitHub 
 
 #### Premier jour sur GitHub :
 
