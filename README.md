@@ -51,7 +51,7 @@ Annuel :
 - Projet annuel rattrapage : https://github.com/RobertAndresVallejos/projet_annuel_rattrapage
 - Projet annuel : Conception et déploiement d'un Site web dynamique "from scratch" : https://github.com/RobertAndresVallejos/projet_annuel
 
-## 💼 Projets personnel
+## 💼 Projet personnel
 
 - Site web de librairie : https://github.com/RobertAndresVallejos/Manga-no-Mori
 
