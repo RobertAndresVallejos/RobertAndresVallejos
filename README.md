@@ -51,7 +51,7 @@ Annuel :
 - Projet annuel rattrapage : https://github.com/RobertAndresVallejos/projet_annuel_rattrapage
 - Projet annuel : Conception et déploiement d'un Site web dynamique "from scratch" : https://github.com/RobertAndresVallejos/projet_annuel
 
-### 🏫 La toile - emlyon business school (mars 2024 - juillet 2024)
+### 🏫 La Toile - emlyon business school (mars 2024 - juillet 2024)
 
 #### <ins>Adresse : 15 boulevard Diderot, 75012 Paris, France</ins>
 
