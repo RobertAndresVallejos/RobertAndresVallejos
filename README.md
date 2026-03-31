@@ -22,7 +22,7 @@ Merci d'avoir lu 👀
 
 ## 📁 Projets scolaires 
 
-### 🏫 IUT Sénart-Fontainebleau (2022-2023)
+### 🏫 IUT Sénart-Fontainebleau (septembre 2022 - juin 2023)
 
 #### <ins>Adresse : Route forestière, Route d'Hurtault, 77300 Fontainebleau, France</ins>
 
@@ -37,7 +37,7 @@ Semestre 2 :
 - Site web de type doodle : https://github.com/RobertAndresVallejos/SAES202-Doodle
 - Jeu du labyrinthe de Thésée : https://github.com/RobertAndresVallejos/SAE21_2022-Jeux-Labyrinthe
 
-### 🏫 ESGI (janv. 2024-déc. 2024)
+### 🏫 ESGI (janvier 2024 - décembre 2024)
 
 #### <ins>Adresse : 242 Rue du Faubourg Saint-Antoine, 75012 Paris, France</ins>
 
@@ -51,9 +51,16 @@ Annuel :
 - Projet annuel rattrapage : https://github.com/RobertAndresVallejos/projet_annuel_rattrapage
 - Projet annuel : Conception et déploiement d'un Site web dynamique "from scratch" : https://github.com/RobertAndresVallejos/projet_annuel
 
+### 🏫 La toile - emlyon business school (mars 2024 - juillet 2024)
+
+#### <ins>Adresse : 15 boulevard Diderot, 75012 Paris, France</ins>
+
+Annuel : 
+- Page web d'un album de music : https://github.com/RobertAndresVallejos/ALBUM_LA_TOILE
+
 ## 💼 Projet personnel
 
-- Site web de librairie : https://github.com/RobertAndresVallejos/Manga-no-Mori
+- Site web de librairie : https://github.com/RobertAndresVallejos/Manga-no-Mori 
 
 ## 💻 Formations en ligne
 
