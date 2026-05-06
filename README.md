@@ -56,7 +56,7 @@ Annuel :
 #### <ins>Adresse : 15 boulevard Diderot, 75012 Paris, France</ins>
 
 Annuel : 
-- Page web d'un album de music : https://github.com/RobertAndresVallejos/ALBUM_LA_TOILE
+- Page web d'un album de musique : https://github.com/RobertAndresVallejos/ALBUM_LA_TOILE
 
 ## 💼 Projet personnel
 
