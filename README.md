@@ -59,6 +59,7 @@ Annuel :
 - Page web d'un album de musique : https://github.com/RobertAndresVallejos/ALBUM_LA_TOILE
 - Site vitrine : [Dépôt GitHub](https://github.com/RobertAndresVallejos/site-vitrine-photographe) | [GitHub Pages](https://robertandresvallejos.github.io/site-vitrine-photographe/)
 - Portfolio : [Dépôt GitHub](https://github.com/RobertAndresVallejos/portfolio-la-toile) | [GitHub Pages](https://robertandresvallejos.github.io/portfolio-la-toile/)
+- Webmag : [Dépôt GitHub](https://github.com/RobertAndresVallejos/Webmag) | [GitHub Pages](https://robertandresvallejos.github.io/Webmag/)
 
 ## 💼 Projet personnel
 
