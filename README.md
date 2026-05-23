@@ -28,7 +28,7 @@ Merci d'avoir lu 👀
 
 Semestre 1 :
 
-- Site web de type marketplace : [Dépôt GitHub](https://github.com/RobertAndresVallejos/SAE_web_S1)
+- Site web de type marketplace : [Dépôt GitHub](https://github.com/RobertAndresVallejos/SAE_web_S1) | [GitHub Pages](https://robertandresvallejos.github.io/SAE_web_S1/)
 - Jeu de paires : [Dépôt GitHub](https://github.com/RobertAndresVallejos/SAE11_2022_01)
 - Configuration d'un poste informatique : [Dépôt GitHub](https://github.com/RobertAndresVallejos/SAE_S1_03)
 
