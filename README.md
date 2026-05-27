@@ -3,28 +3,13 @@
 Voici mon portfolio GitHub accompagné de la globalité de mes projets. 
 
 - 📁 Projets scolaires :
-
-  Créations passées et présentes, importées progressivement.
-
 - 💼 Projet personnel :
-
-  Création d'un **site web de librairie** dans le cadre d'un projet personnel.
-
 - 💻 Formations en ligne :
+- :octocat: Compétences GitHub :
   
-  Apprentissage via Udemy, lien disponible sur mon profil.
-
-- :octocat: GitHub :
-  
-  Parallèlement, j'approfondis ma maîtrise de GitHub.
-
-Merci d'avoir lu 👀
-
 ## 📁 Projets scolaires 
 
 ### 🏫 IUT Sénart-Fontainebleau (septembre 2022 - juin 2023)
-
-#### <ins>Adresse : Route forestière, Route d'Hurtault, 77300 Fontainebleau, France</ins>
 
 Semestre 1 :
 
@@ -39,8 +24,6 @@ Semestre 2 :
 
 ### 🏫 ESGI (janvier 2024 - décembre 2024)
 
-#### <ins>Adresse : 242 Rue du Faubourg Saint-Antoine, 75012 Paris, France</ins>
-
 Annuel :
 
 - Conception et architecture d'un système d'information : [Dépôt GitHub](https://github.com/RobertAndresVallejos/Mini-Projet-Architecture-SI)
@@ -52,8 +35,6 @@ Annuel :
 - Projet annuel : Conception et déploiement d'un Site web dynamique "from scratch" : [Dépôt GitHub](https://github.com/RobertAndresVallejos/projet_annuel)
 
 ### 🏫 La Toile - emlyon business school (mars 2024 - juillet 2024)
-
-#### <ins>Adresse : 15 boulevard Diderot, 75012 Paris, France</ins>
 
 Annuel : 
 - Page web d'un album de musique : https://github.com/RobertAndresVallejos/ALBUM_LA_TOILE
@@ -68,8 +49,6 @@ Annuel :
 ## 💻 Formations en ligne
 
 ### Udemy
-
-#### Formation Complète Développeur Web
 
 - Site web : [Dépôt GitHub](https://github.com/RobertAndresVallejos/Travel-Agency)
 - Jeu du serpent : [Dépôt GitHub](https://github.com/RobertAndresVallejos/Jeu-du-serpent)
