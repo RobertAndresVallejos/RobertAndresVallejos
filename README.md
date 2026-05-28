@@ -1,11 +1,8 @@
 # Hello World 🌍
 
-Voici mon portfolio GitHub accompagné de la globalité de mes projets. 
+### Portfolio (projets & compétences) :
 
-- 📁 Projets scolaires :
-- 💼 Projet personnel :
-- 💻 Formations en ligne :
-- :octocat: Compétences GitHub :
+📁 Projets scolaires | 💼 Projet personnel | 💻 Formations en ligne | :octocat: Compétences GitHub
   
 ## 📁 Projets scolaires 
 
