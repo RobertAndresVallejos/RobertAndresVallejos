@@ -2,8 +2,16 @@
 
 ### Portfolio (projets & compétences) :
 
-📁 Projets scolaires | 💼 Projet personnel | 💻 Formations en ligne | :octocat: Compétences GitHub
-  
+> 📁 Projets scolaires
+
+> 💼 Projet personnel
+
+> 🌐 Formations en ligne
+
+> :octocat: Compétences GitHub
+
+> 💻 Compétences informatique
+
 ## 📁 Projets scolaires 
 
 ### 🏫 IUT Sénart-Fontainebleau (septembre 2022 - juin 2023)
@@ -43,7 +51,7 @@ Annuel :
 
 - Site web de librairie : [Dépôt GitHub](https://github.com/RobertAndresVallejos/Manga-no-Mori)
 
-## 💻 Formations en ligne
+## 🌐 Formations en ligne
 
 ### Udemy
 
