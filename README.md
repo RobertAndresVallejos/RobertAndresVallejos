@@ -17,7 +17,7 @@
 ### 🏫 La Toile - emlyon business school (mars 2026 - juillet 2026)
 
 Annuel : 
-- Maquette figma + site web : [GitHub Pages]() +
+- Maquette figma + site web : [Dépôt GitHub](https://github.com/RobertAndresVallejos/HaloMind) | [GitHub Pages](https://robertandresvallejos.github.io/HaloMind/) +
 [Prototype Figma](https://www.figma.com/proto/wf31OGe4L5dS1TVWhRtkSv/Application-Groupe-3?node-id=7284-3832&viewport=904%2C300%2C0.1&t=PeoSHH11rRbNCArx-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=7284%3A3832&show-proto-sidebar=1&page-id=1%3A3)
 - Page web d'un album de musique : https://github.com/RobertAndresVallejos/ALBUM_LA_TOILE
 - Site vitrine : [Dépôt GitHub](https://github.com/RobertAndresVallejos/site-vitrine-photographe) | [GitHub Pages](https://robertandresvallejos.github.io/site-vitrine-photographe/)
